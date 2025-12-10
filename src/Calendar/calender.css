@@ -1,0 +1,42 @@
+.calendar {
+    width: 80%;
+    margin: 40px auto;
+    height: 580px;
+}
+
+.fc {
+    height: 100% !important; 
+}
+
+.fc-view {
+    height: 100% !important;
+}
+
+.fc-header-toolbar {
+    margin-bottom: 20px; 
+}
+
+.fc-event {
+    background-color: rgb(249, 102, 5);
+    border: 1px solid #d6eaf8;
+    border-radius: 8px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.fc-event-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+}
+
+.fc-event .description {
+    font-size: 14px;
+    color: #000;
+}
+
+.fc-event .dates {
+    font-size: 15px;
+    color: #fff;
+    font-style: italic;
+}
